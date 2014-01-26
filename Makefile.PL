@@ -10,13 +10,13 @@ my %deps = (
 );
 
 my %resources = (
-    homepage    => 'http://jmcnamara.github.com/pod-simple-wiki/',
-    repository  => 'http://github.com/jmcnamara/pod-simple-wiki',
-    bugtracker  => 'http://github.com/jmcnamara/pod-simple-wiki/issues',
+    homepage    => 'http://jewilke.github.com/pod-simple-wiki/',
+    repository  => 'http://github.com/jewilke/pod-simple-wiki',
+    bugtracker  => 'http://github.com/jewilke/pod-simple-wiki/issues',
 );
 
 my %params = (
-    'AUTHOR'        => 'John McNamara (jmcnamara@cpan.org)',
+    'AUTHOR'        => 'John McNamara (jewilke@cpan.org)',
     'NAME'          => 'Pod::Simple::Wiki',
     'ABSTRACT_FROM' => 'lib/Pod/Simple/Wiki.pm',
     'VERSION_FROM'  => 'lib/Pod/Simple/Wiki.pm',
